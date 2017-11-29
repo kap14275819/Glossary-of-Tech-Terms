@@ -5,6 +5,7 @@
 
 
 ## Explanation of the three Paradigms:
+#### There are many different types of programming that have been developed over the years. Each programming language falls into one of three programming paradigms: event-driven, procedural, or object-orientated. These three categories help the development of new, efficient and error-free programming languages.
 ### Procedural:
 #### Procedural paradigms is where programs are broken down into procedures or functions. Procedural programming uses multiple procedures that are linked to the main program. Each procedure has a specific purpose and is called by the main program when a user enters the command to do so or a specific critera is met. This usually directly instructs a computer to complete a specific task that you want it to do in logical steps.
 
