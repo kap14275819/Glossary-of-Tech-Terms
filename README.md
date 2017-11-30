@@ -19,7 +19,5 @@
 #### [Github Link](https://github.com/kap14275819/Card-game-Project-2/blob/master/card%20game) 
 #### [Repl.it Link](https://repl.it/@kap14275819/card-game)
 
-## Debugging process and debugging facilities available in the IDE:
-#### The type of debugging facilities that were available on 'Repl.it' was that you were able to see the different types of error such as runtime errors. This usually helped to then fix the problem that occur when running the code. But other types of debugging processes were not available so they had to be either done manually or you would have to create a small debugging process when running the code.
 
 
