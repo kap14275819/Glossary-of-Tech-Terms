@@ -19,5 +19,7 @@
 #### [Github Link](https://github.com/kap14275819/Card-game-Project-2/blob/master/card%20game) 
 #### [Repl.it Link](https://repl.it/@kap14275819/card-game)
 
+## Debugging process:
+#### The debugging process is very helpful and useful for every coder as it allows you to look over the your working code in the console and check whether any errors have occured in the process. If they have then you are able to read and check through what line in the code has affected the program. This then makes sure the program is in working order and to make it more robust. Without this, the code affect might not be shown and so you will not be able to know what is the problem with the code. Which may then cause problems in the future.
 
 
