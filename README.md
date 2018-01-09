@@ -24,3 +24,5 @@
 
 ## Coding standard Evaluation:
 #### The coding standard is neccessary for both the team and the individual, because both individual and team will understand simple standards that will help them in the process when coding their programs in the future. It will also help them in the speed of coding such as the indenting instead of pressing the space button. But also the commenting which allows anyone reading through the code including the creator of the code to understand what that part of code does exactly.
+
+
