@@ -1,8 +1,26 @@
 # Glossary-of-Tech-Terms
 
 ## Definition of an algorithm:
-#### A set of mathematical instructions or rules that, especially if given to a computer, will help to calculate an answer to a problem 
+#### An algorithm is an unambiguous specification of how to solve a class of problems. Algorithms can perform calculation, data processing and automated reasoning tasks. An algorithm is an effective method that can be expressed within a finite amount of space and time and in a well-defined formal language for calculating a function. A simpler way of is that it is a set of rules or instructions that are followed in order to complete a task or to solve a problem.
 
+## Process in building and application:
+### Step 1. Meeting With The Client
+#### Firstly there will be a meeting with the client which you will discuss with them about their design and what they want from their application. Other things such as discussing deadlines so you can know how long you have to complete it and then also any negotiable payment for the work. Contracts are common to be signed or agreed on at this time and stage of the project if money is involved. 
+
+### Step 2. Decide on working in a team or decide to work alone
+#### This is the time on whether you want to work in a team and decide who will be working with you on this project, contact or arrange meetings with a designer or a developer and then persuade them to get on board with the project. This can be decided whether you want to undertake the project alone, but this would take more time than with a team.
+
+### Step 3. Design
+#### The first step you take in the project is to have a planned out idea and then create a design documentation and a concept art that will explain all the features that the app will have. Concept images will be also in this but they will have to be as close to how the design of the app will look like in the end. In this documentation it should also consist of different colours, features, fonts ect.
+
+### Step 4. Development
+#### In the development stage you will have to start coding the app and all the mechanics that it will have. In this stage if any problems or mistakes that will occur during this process can be very costly, both in time and money. So making sure that you follow your clear plan and design before hand is critically important.
+
+### Step 5. Testing
+#### This stage is one of the most important parts of the porject as you have to make sure that you have not got any bugs or errors within the application so that it works perfectly. This can be done along side the development so that you can correct the errors whilst writing the code. But in the end there should be a final "Beta test" before release to make sure that the whole application is in full working condition.
+
+### Step 6. Presenting final design to the Client
+#### Once you have done all the designs and coding and the application is finished then you can create a small presentation to show the final product to the client so that they can be shown on the app and on a PowerPoint presentation to know what you have done and any changes made.
 
 ## Explanation of the three Paradigms:
 #### There are many different types of programming that have been developed over the years. Each programming language falls into one of three programming paradigms: event-driven, procedural, or object-orientated. These three categories help the development of new, efficient and error-free programming languages.
