@@ -38,9 +38,6 @@
 #### The relationship between the three paradigms is that each of them are based around functions and they all implement them in different ways. As an example, Event-Driven links the function to a user event, Procedural calls the functions when asked and Object-Orientated is able to link a function to an object through a class and other methods. The three paradigms almost evolve of that one that came before it as each of them expand on the idea of implementing functions.
 #### Each of the paradigms deal with the following which is Input/Output, Variables, Repetition, Decisions and Data Structures.
 
-## IDE used in Project 2:
-#### ![IDE](https://github.com/kap14275819/Glossary-of-Tech-Terms/blob/master/IDE2.png)
-
 ## Programs that implement an algorithm using an IDE:
 #### [Github Link](https://github.com/kap14275819/Card-game-Project-2/blob/master/card%20game) 
 #### [Repl.it Link](https://repl.it/@kap14275819/card-game)
