@@ -34,7 +34,7 @@
 #### Event-driven programming is a computer programming paradigm where a program responds to an event that has happpened die to the user input. This type of programming is different to the other programming paradigms as the system does not respond to the structure of the program; although the program structure can follow a similar technique to object-orientated programming. Event-driven programming follows the movements of the user to determine the flow of the program; and requires the programmer to write event procedures to respond to the user’s inputs. 
 
 ### The Relationship Between then:
-#### 
+#### The relationship between the three paradigms is that each of them are based around functions and they all implement them in different ways. As an example, Event-Driven links the function to a user event, Procedural calls the functions when asked and Object-Orientated is able to link a function to an object through a class and other methods. The three paradigms almost evolve of that one that came before it as each of them expand on the idea of implementing functions.
 
 ## IDE used in Project 2:
 #### ![IDE](https://github.com/kap14275819/Glossary-of-Tech-Terms/blob/master/IDE2.png)
