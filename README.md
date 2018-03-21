@@ -24,6 +24,7 @@
 
 ## Explanation of the three Paradigms:
 #### There are many different types of programming that have been developed over the years. Each programming language falls into one of three programming paradigms: event-driven, procedural, or object-orientated. These three categories help the development of new, efficient and error-free programming languages.
+
 ### Procedural:
 #### Procedural paradigms is where programs are broken down into procedures or functions. Procedural programming uses multiple procedures that are linked to the main program. Each procedure has a specific purpose and is called by the main program when a user enters the command to do so or a specific critera is met. This usually directly instructs a computer to complete a specific task that you want it to do in logical steps.
 
@@ -35,6 +36,7 @@
 
 ### The Relationship Between then:
 #### The relationship between the three paradigms is that each of them are based around functions and they all implement them in different ways. As an example, Event-Driven links the function to a user event, Procedural calls the functions when asked and Object-Orientated is able to link a function to an object through a class and other methods. The three paradigms almost evolve of that one that came before it as each of them expand on the idea of implementing functions.
+#### Each of the paradigms deal with the following which is Input/Output, Variables, Repetition, Decisions and Data Structures.
 
 ## IDE used in Project 2:
 #### ![IDE](https://github.com/kap14275819/Glossary-of-Tech-Terms/blob/master/IDE2.png)
