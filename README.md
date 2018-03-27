@@ -52,45 +52,11 @@
 ### Event-Driven:
 #### Event-driven programming is a computer programming paradigm where a program responds to an event that has happpened die to the user input. This type of programming is different to the other programming paradigms as the system does not respond to the structure of the program; although the program structure can follow a similar technique to object-orientated programming. Event-driven programming follows the movements of the user to determine the flow of the program; and requires the programmer to write event procedures to respond to the user’s inputs. 
 ### Characteristics:
-#### 1. Service Oriented
-
-Provides services that are available on a network, so the code doesn’t have to be rewritten every time it is needed, makes it easier to use and saves time. Service is a task carried out every day, such as student registers so it can be carried out and used easily multiple times without having to be rewritten every time it is required and can be distributed so lots of people are able to do something with the same service.
-
-Time Driven
-
-Relies on time for it to work, can be based off of a timer in which it lasts until the timer ends such as cooking a meal with a microwave or can be carried out at certain increments repeatedly such as with traffic lights that change automatically after a certain amount of time.
-
-Event Handlers
-
-This is the code that relates to a certain event such as clicking on a button, anything between the private sub and end sub is the event handler. This makes the event work and tells it what it should do when it is run.
-
-Trigger Functions
-
-This is what decides what causes the event to take place, for example making the button single click will cause it to run when it is clicked, setting it to double click will make it require 2 clicks for it to run. Every object has a range of trigger functions that can be used to run the event, upwards of 50 or more on some.
-
-Events, eg Mouse, Keyboard, Form
-
-An event is what happens when certain parameters are fulfilled, for example when playing a game with a controller pressing the trigger will cause the gun to fire while moving the stick will cause the character to move. The same trigger can do different events depending on the situation, for example clicking on an icon will do something different to clicking on a button. Almost everything related to computers uses events to work so they are an integral part of the operating system. There are also system events that are based on time such as automatic updates.
-
-Event Loops
-
-These look for any events to occur and are there to detect any changes that may have occurred. An example of this is when he screen goes to sleep but moving the mouse will get it back again, this is because the event loops are checking for events like this and are running all the time in the background. These are part of the event driven program and aren’t programmed by the programmer.
-
-Forms – Suitability for Graphical Interfaces
-
-This becomes the GUI where all the objects are held and where they can be used by the user. This helps to make the process of creating a GUI easier as they do not have to create anything and simply have to drag things to the form that they want to be used.
-
-Flexibility
-
-This is what allows the program to have massive variability and enable it to be different to everybody else’s, there is lots of options for the design so it can be whatever the programmer envisioned it to be. They can also decide how they want to write the code and make it work the way the want it to.
-
-Simplicity of Programming
-
-It is very easy to program event driven programs as it uses a drag and drop system which allows the programmer to just select what they want and drag it onto the form. After this they can just double click on the object to add the necessary code to make it work as the programmer intended it to. This is easy compared to OOP and procedural which are far less user friendly and require more work to make work correctly.
-
-Ease of Development
-
-It is relatively easy to develop in event driven programming as it has mean to tell you when an error has occurred by underlining the problem, it also offers help with lots of community support available. The fact that you can test each event as you are working on it allows you to see if it works or not which makes it easier to develop for as problems can be more easily found. The code is also easier to understand than other languages.
+#### 1. Provides services that are available on a network, so the code doesn’t have to be rewritten every time it is needed. (Service Oriented)
+#### 2. Relies on time for it to work, can be based off of a timer in which it lasts until the timer ends. (Time Driven)
+#### 3. Event handlers relate to a certain even such as clicking on a button.
+#### 4. Trigger functions decide what causes the event to take place. Every object has a range of trigger functions that can be used to run the event.
+#### 5. Event loops look for any events to occur and are there to detect any changes that may have occured.
 
 ### The Relationship Between then:
 #### The relationship between the three paradigms is that each of them are based around functions and they all implement them in different ways. As an example, Event-Driven links the function to a user event, Procedural calls the functions when asked and Object-Orientated is able to link a function to an object through a class and other methods. The three paradigms almost evolve of that one that came before it as each of them expand on the idea of implementing functions.
