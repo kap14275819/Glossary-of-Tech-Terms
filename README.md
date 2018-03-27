@@ -26,37 +26,13 @@
 #### There are many different types of programming that have been developed over the years. Each programming language falls into one of three programming paradigms: event-driven, procedural, or object-orientated. These three categories help the development of new, efficient and error-free programming languages.
 
 ### Procedural:
-#### Procedural paradigms is where programs are broken down into procedures or functions. Procedural programming uses multiple procedures that are linked to the main program. Each procedure has a specific purpose and is called by the main program when a user enters the command to do so or a specific critera is met. This usually directly instructs a computer to complete a specific task that you want it to do in logical steps.
-### Characteristics:
-#### 1. Puts much importance on Things to be Done.
-#### 2. Large problems are divided into smaller programs known as functions.
-#### 3. Most of the functions share global data.
-#### 4. Data move openly around the system from function to function.
-#### 5. Functions transfer data from one form to another.
-#### 6. Employs top-down approach in program designing.
-#### 7. In the cases of large program, bringing change is difficult and time consuming.
-#### 8. Appropriate and effective techniques are unavailable to secure data of a function from others.
+#### The procedural programming paradigm (also called imperative programming) is concerned with defining a linear procedure or sequence of programming statements. A key feature of the paradigm is the partitioning of functionality into small discrete re-usable modules called procedures (routines or subroutines) that act like small programs themselves with their own scope, inputs and outputs. A procedural code example is executed from a single point of control or entry point which calls out into declared procedures, which in turn may call other procedures. Procedural programming is intuitive in the sense that it is very similar to how you would expect a program to work. If you want a computer to do something, you should provide step-by-step instructions on how to do it. 
 
 ### Object-Orientated:
-#### Object-oriented paradigms breaks down a program into objects. This is different to procedural programming as it uses a different structural format to procedural. Object-oriented programming was developed to deal with the complexities of more advanced systems when procedural programming couldn't address the difficulties the system faced. These paradigms link data and functions together in the building blocks of objects. The objects in this form of programming are based on real world objects which are relevant to the system being developed. This programming paradigm allow the used to change the functions of the program easily as the code is typically stored in classes. Java and C++ are examples of object-orientated programming.
-### Characteristics:
-#### 1. Emphasis on data rather than procedure
-#### 2. Programs are divided into entities known as objects
-#### 3. Data Structures are designed such that they characterize objects
-#### 4. Functions that operate on data of an object are tied together in data structures
-#### 5. Data is hidden and cannot be accessed by external functions
-#### 6. Objects communicate with each other through functions
-#### 7. New data and functions can be easily added whenever necessary
-#### 8. Follows bottom up design in program design
+#### Object-oriented paradigms breaks down a program into objects. This is different to procedural programming as it uses a different structural format to procedural. Object-oriented programming was developed to deal with the complexities of more advanced systems when procedural programming couldn't address the difficulties the system faced. These paradigms link data and functions together in the building blocks of objects. The objects in this form of programming are based on real world objects which are relevant to the system being developed. This programming paradigm allow the used to change the functions of the program easily as the code is typically stored in classes. A key aspect of object-oriented programming is the use of classes. A class is a blueprint of an object. You can think of a class as a concept and the object as the embodiment of that concept. So, let's say you want to use a person in your program. You want to be able to describe the person and have the person do something. A class called 'person' would provide a blueprint for what a person looks like and what a person can do. Java and C++ are examples of object-orientated programming. 
 
 ### Event-Driven:
-#### Event-driven programming is a computer programming paradigm where a program responds to an event that has happpened die to the user input. This type of programming is different to the other programming paradigms as the system does not respond to the structure of the program; although the program structure can follow a similar technique to object-orientated programming. Event-driven programming follows the movements of the user to determine the flow of the program; and requires the programmer to write event procedures to respond to the user’s inputs. 
-### Characteristics:
-#### 1. Provides services that are available on a network, so the code doesn’t have to be rewritten every time it is needed. (Service Oriented)
-#### 2. Relies on time for it to work, can be based off of a timer in which it lasts until the timer ends. (Time Driven)
-#### 3. Event handlers relate to a certain even such as clicking on a button.
-#### 4. Trigger functions decide what causes the event to take place. Every object has a range of trigger functions that can be used to run the event.
-#### 5. Event loops look for any events to occur and are there to detect any changes that may have occured.
+#### Event-driven programming is a computer programming paradigm where a program responds to an event that has happpened to the user input such as mouse clicks or key presses. This type of programming is different to the other programming paradigms as the system does not respond to the structure of the program; although the program structure can follow a similar technique to object-orientated programming. Event-driven programming follows the movements of the user to determine the flow of the program; and requires the programmer to write event procedures to respond to the user’s inputs. In an even-driven application, there is generally a main loop that listens for events, and then triggers a callback function when one of those events is detected. In embedded systems the same may be achieved using hardware interrupts instead of a constantly running main loop. Event-driven programs can be written in any programming language, although the task is easier in languages that provide high-level abstractions, such as closures.
 
 ### The Relationship Between then:
 #### The relationship between the three paradigms is that each of them are based around functions and they all implement them in different ways. As an example, Event-Driven links the function to a user event, Procedural calls the functions when asked and Object-Orientated is able to link a function to an object through a class and other methods. The three paradigms almost evolve of that one that came before it as each of them expand on the idea of implementing functions.
